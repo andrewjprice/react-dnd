@@ -1,3 +1,5 @@
+![](dnd-example.sb-6195b041-xi0EWX)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
